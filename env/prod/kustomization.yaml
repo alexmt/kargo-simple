@@ -5,4 +5,4 @@ resources:
 namespace: guestbook-simple-prod
 images:
 - name: ghcr.io/alexmt/guestbook
-  newTag: v0.0.38
+  newTag: v0.0.40
